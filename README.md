@@ -1,5 +1,5 @@
 # AHK-HENK-MHEN
-This project enables you to use IME control with `KC_HENK(0x079)`, `KC_HENK(0x07B)`.
+This project enables you to use IME control with `KC_HENK(0x079)`, `KC_MHEN(0x07B)`.
 
 ## Usage
 - If you not use Auto Hot Key:
